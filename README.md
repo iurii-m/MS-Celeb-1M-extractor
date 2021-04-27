@@ -20,7 +20,7 @@ The copy of these files is [here](https://drive.google.com/drive/folders/1aOR-F9
 Then execute:
 
 ```sh
-python c-ms-celeb.py -ms [PATH/TO/EXTRACTED/DATASET] exp -clms [PATH/TO/CLEANED/DATASET] 
+python c-ms-celeb.py -ms [PATH/TO/EXTRACTED/DATASET] -clms [PATH/TO/CLEANED/DATASET] 
 ```
 requirements:
 Python 3.x (3.7.9 was used)
