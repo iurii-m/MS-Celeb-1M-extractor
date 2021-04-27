@@ -17,7 +17,7 @@ python extract.py -edp [PATH/TO/EXTRACTED/DATASET] -tfp [PATH/TO/TSV/FILE/FaceIm
 3. The original dataset is rather noisy. There are several implementations for cleaning the dataset. Many thanks to [EB-Dodo](https://github.com/EB-Dodo) for [C-MS-Celeb](https://github.com/EB-Dodo/C-MS-Celeb) which is used here.
 Copy files *relabel_list_128Vec_T058.txt*
 and *clean_list_128Vec_WT051_P010.txt*  from [C-MS-Celeb](https://github.com/EB-Dodo/C-MS-Celeb) and put them to the root of this repository. 
-The copy of these files is [here](https://drive.google.com/drive/folders/1aOR-F9cse3ESY3OsGpulI_b3NMzCAZA4?usp=sharing)
+The copy of these files is [here](https://drive.google.com/drive/folders/1aOR-F9cse3ESY3OsGpulI_b3NMzCAZA4?usp=sharing).
 Then execute:
 
 ```sh
